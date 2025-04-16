@@ -3,8 +3,11 @@ This project demonstrates automated testing for an e-commerce website using Robo
 
 ## Project Structure
 ├── testcase/ # Test suite files
+
 │ ├── 01_signup.robot # User registration tests
+
 │ ├── 02_account_information.robot
+
 │ ├── 03_login.robot # Authentication tests
 │ ├── 04_product_search.robot
 │ ├── 05_add_cart.robot
@@ -18,7 +21,7 @@ This project demonstrates automated testing for an e-commerce website using Robo
 ## Installation
 ```bash
 # Clone the repository
-git clone [your-repo-url]
+git clone https://github.com/namebank/Robot-Framwork-automationexercise.com-.git
 # Install dependencies
 pip install robotframework-seleniumlibrary
 pip install robotframework-requests  
