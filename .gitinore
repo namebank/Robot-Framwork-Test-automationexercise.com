@@ -1,0 +1,12 @@
+# Robot Framework results
+# results/
+# log.html
+# output.xml
+# report.html
+# selenium-screenshot-*.png
+
+
+
+# IDE
+.vscode/
+.idea/
