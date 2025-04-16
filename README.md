@@ -1,6 +1,8 @@
 # E-commerce Automation Testing Project
 This project demonstrates automated testing for an e-commerce website using Robot Framework. The test suite covers essential e-commerce functionalities including user registration, login, product search, shopping cart management, and checkout process.
 
+## Project Structure
+```bash
 ├── testcase/                        # Test suite files
 │   ├── 01_signup.robot              # User registration tests
 │   ├── 02_account_information.robot
@@ -13,7 +15,7 @@ This project demonstrates automated testing for an e-commerce website using Robo
 │   ├── common_keywords.robot        # Reusable keywords
 │   └── common_variables.robot       # Global variables
 └── results/                         # Test execution results
-
+```
 ## Installation
 ```bash
 # Clone the repository
