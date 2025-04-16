@@ -2,15 +2,14 @@
 This project demonstrates automated testing for an e-commerce website using Robot Framework. The test suite covers essential e-commerce functionalities including user registration, login, product search, shopping cart management, and checkout process.
 
 ## Project Structure
-automation/
 ├── testcase/ # Test suite files
-│ ├── 01_signup.robot 
+│ ├── 01_signup.robot # User registration tests
 │ ├── 02_account_information.robot
-│ ├── 03_login.robot 
+│ ├── 03_login.robot # Authentication tests
 │ ├── 04_product_search.robot
 │ ├── 05_add_cart.robot
 │ ├── 06_checkout.robot
-│ └── 09_delete_account.robot
+│ └── 07_delete_account.robot
 ├── resources/ # Shared resources
 │ ├── common_keywords.robot # Reusable keywords
 │ └── common_variables.robot # Global variables
