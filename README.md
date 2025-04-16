@@ -3,11 +3,8 @@ This project demonstrates automated testing for an e-commerce website using Robo
 
 ## Project Structure
 ├── testcase/ # Test suite files
-
 │ ├── 01_signup.robot # User registration tests
-
 │ ├── 02_account_information.robot
-
 │ ├── 03_login.robot # Authentication tests
 │ ├── 04_product_search.robot
 │ ├── 05_add_cart.robot
