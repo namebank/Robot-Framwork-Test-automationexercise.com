@@ -19,7 +19,7 @@ This project demonstrates automated testing for an e-commerce website using Robo
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/namebank/Robot-Framwork-automationexercise.com-.git
+git clone https://github.com/namebank/Robot-Framwork-Test-automationexercise.com.git
 # Install dependencies
 pip install robotframework-seleniumlibrary
 pip install robotframework-requests  
